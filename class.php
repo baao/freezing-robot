@@ -76,12 +76,6 @@ class Weather {
     }
 
 
-
-}
-
-class Weatheroutput extends Weather {
-
-
     public function getCurrentWeather() {
 
 
